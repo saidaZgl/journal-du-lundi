@@ -1,3 +1,3 @@
 # journal-du-lundi
 
-## Inspiration du layout de la Home page de Medium
+### Inspiration du layout de la Home Page du site Medium
