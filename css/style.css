@@ -72,6 +72,11 @@ hr {
     color: var(--dark);
 }
 
+.article-author {
+    font-weight: 700;
+    font-size: 1.4rem;
+}
+
 /* utility */
 
 .container {
@@ -136,14 +141,6 @@ hr {
     padding-bottom: 1.5rem;
     border-bottom: 1px solid var(--gray);
     margin-bottom: 2rem;
-}
-
-
-/* generic */
-
-.article-author {
-    font-weight: 700;
-    font-size: 1.4rem;
 }
 
 
